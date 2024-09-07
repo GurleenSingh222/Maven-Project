@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-15T20:40:56 EDT" name="Suite" finished-at="2024-08-15T20:44:12 EDT" duration-ms="195696">
+    <groups>
+    </groups>
+    <test started-at="2024-08-15T20:40:56 EDT" name="Test" finished-at="2024-08-15T20:44:12 EDT" duration-ms="195696">
+      <class name="testcases.HomepageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:13 EDT" name="beforeMethod" finished-at="2024-08-15T20:41:24 EDT" duration-ms="11226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAddressTabTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:24 EDT" name="verifyAddressTabTest" finished-at="2024-08-15T20:41:26 EDT" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddressTabTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:26 EDT" name="afterMethod" finished-at="2024-08-15T20:41:31 EDT" duration-ms="4854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:31 EDT" name="beforeMethod" finished-at="2024-08-15T20:41:42 EDT" duration-ms="11506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBestSellerTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:42 EDT" name="verifyBestSellerTest" finished-at="2024-08-15T20:41:47 EDT" duration-ms="4840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBestSellerTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:47 EDT" name="afterMethod" finished-at="2024-08-15T20:41:50 EDT" duration-ms="2635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:41:50 EDT" name="beforeMethod" finished-at="2024-08-15T20:42:01 EDT" duration-ms="11262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyCategoryTabTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:01 EDT" name="verifyCategoryTabTest" finished-at="2024-08-15T20:42:01 EDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCategoryTabTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:01 EDT" name="afterMethod" finished-at="2024-08-15T20:42:05 EDT" duration-ms="3978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:05 EDT" name="beforeMethod" finished-at="2024-08-15T20:42:16 EDT" duration-ms="10734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyHomebuttonTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:16 EDT" name="verifyHomebuttonTest" finished-at="2024-08-15T20:42:21 EDT" duration-ms="5300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomebuttonTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:21 EDT" name="afterMethod" finished-at="2024-08-15T20:42:25 EDT" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:25 EDT" name="beforeMethod" finished-at="2024-08-15T20:42:35 EDT" duration-ms="10708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPlaceholderTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:35 EDT" name="verifyPlaceholderTest" finished-at="2024-08-15T20:42:36 EDT" duration-ms="776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholderTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:36 EDT" name="afterMethod" finished-at="2024-08-15T20:42:40 EDT" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:40 EDT" name="beforeMethod" finished-at="2024-08-15T20:42:53 EDT" duration-ms="12917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyTitleTest()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:53 EDT" name="verifyTitleTest" finished-at="2024-08-15T20:42:53 EDT" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.HomepageTest@52102734]" started-at="2024-08-15T20:42:53 EDT" name="afterMethod" finished-at="2024-08-15T20:42:58 EDT" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.HomepageTest -->
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.LoginTest@e1de817]" started-at="2024-08-15T20:40:56 EDT" name="beforeMethod" finished-at="2024-08-15T20:41:09 EDT" duration-ms="12526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithWrongUsername()[pri:1, instance:testcases.LoginTest@e1de817]" started-at="2024-08-15T20:41:09 EDT" name="loginWithWrongUsername" finished-at="2024-08-15T20:41:10 EDT" duration-ms="1448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongUsername -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.LoginTest@e1de817]" started-at="2024-08-15T20:41:10 EDT" name="afterMethod" finished-at="2024-08-15T20:41:13 EDT" duration-ms="2830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.LoginTest -->
+      <class name="testcases.BestSellerPageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:42:58 EDT" name="beforeMethod" finished-at="2024-08-15T20:43:14 EDT" duration-ms="16376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBannerTest()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:14 EDT" name="verifyBannerTest" finished-at="2024-08-15T20:43:15 EDT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:15 EDT" name="afterMethod" finished-at="2024-08-15T20:43:17 EDT" duration-ms="2538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:17 EDT" name="beforeMethod" finished-at="2024-08-15T20:43:46 EDT" duration-ms="28825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBestSellerTitleTest()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:46 EDT" name="verifyBestSellerTitleTest" finished-at="2024-08-15T20:43:46 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBestSellerTitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:46 EDT" name="afterMethod" finished-at="2024-08-15T20:43:48 EDT" duration-ms="2063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:43:48 EDT" name="beforeMethod" finished-at="2024-08-15T20:44:07 EDT" duration-ms="18541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDealTabTest()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:44:07 EDT" name="verifyDealTabTest" finished-at="2024-08-15T20:44:07 EDT" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealTabTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.BestSellerPageTest@3541cb24]" started-at="2024-08-15T20:44:07 EDT" name="afterMethod" finished-at="2024-08-15T20:44:12 EDT" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.BestSellerPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

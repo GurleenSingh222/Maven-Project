@@ -1,0 +1,7 @@
+pages/ReturnsandOrdersPage.class
+pages/BestSellerPage.class
+base/TestBase.class
+pages/HomePage.class
+utilities/Xls_Reader.class
+pages/LoginPage.class
+config/DataFile.class
